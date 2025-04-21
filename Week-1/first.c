@@ -70,7 +70,7 @@ int main() {
 		printf("The number is negative. \n");
 	}
 	
-//Program to check Natural Number
+// 10. Program to check Natural Number
 	int numN;
 	printf("Enter a Number: \n"); 
 	if (scanf("%d",&numN) == 1) {
@@ -85,7 +85,7 @@ int main() {
 		printf("Not a valid number \n");
 	}
 
-// Program to check Armstrong Number
+// 11. Program to check Armstrong Number
 	int numA, temp0, sum = 0, no = 0, remainder;
 	
 	printf("Enter a number:");
